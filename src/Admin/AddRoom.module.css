@@ -1,0 +1,84 @@
+.rooms {
+    text-align: center;
+    background-color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1000px;
+    width: 1700px;
+    padding-top: 100px;
+    
+}
+.hotNav {
+    background-color: rgb(46, 80, 80);
+    margin-top: -70px;
+    width: 1700px;
+    margin-left: -380px;
+  }
+.h2 {
+
+    font-weight: lighter;
+    font-size: 40px;
+    font-family: serif;
+    margin-top: 50px;
+   
+}
+h5{
+    margin-top: -40px;
+    margin-left: 120px;
+    font-weight: lighter;
+}
+.roomType {
+    width: 60%;
+    display: flex;
+    margin: auto;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.roomType img {
+    text-align: center;
+    max-width: 80%;
+    height: 80%;
+    margin: auto;
+}
+.roomType h4{
+    font-weight: normal;
+    margin-top: -10px;
+}
+.roomType h3 {
+    margin-top: -30px;
+  margin-left: -90px;
+  font-weight: normal;
+}
+.roomType button {
+    border-radius: 50px;
+    background-color: rgba(0, 132, 4, 0.6);
+    border: none;
+    height: 25px;
+    margin-left: 300px;
+}
+
+.lastPasrt {
+    background-color: rgba(247, 247, 247, 0.2);
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+    width: 1700px;
+    text-align: center;
+    display: flex;
+}
+
+.lastPasrt .contact {
+    margin-top: 100px;
+    margin-left: 250px;
+}
+
+.lastPasrt .ForCustomer {
+    margin-top: 100px;
+    margin-left: 160px;
+}
+.maps{
+  
+    margin-left: 100px;
+  
+  }

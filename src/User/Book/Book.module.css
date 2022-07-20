@@ -1,0 +1,119 @@
+.body{
+    display: flex;
+    text-align: center;
+    background-color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1520px;
+    width: 1700px;
+    flex-direction: column;
+}
+h1{
+font-weight: lighter;
+font-size: 40px;
+}
+form{
+    margin-top: 20px;
+}
+.terms button{
+    border-radius: 35px;
+    height: 50px;
+    width:150px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: azure;
+    margin-top: 20px;
+    margin-left: -140px;
+}
+.dates{
+background-attachment: fixed;
+background-color: white;
+width: 500px;
+height:250px;
+margin-left: 600px;
+box-shadow: 10px 10px 5px lightblue;
+text-align: left;
+}
+.accomodation{
+background-attachment: fixed;
+background-color: white;
+width: 500px;
+height:300px;
+margin-left: 600px;
+text-align: left;
+box-shadow: 10px 10px 5px lightblue;
+}
+.GuestIInfo{
+background-attachment: fixed;
+background-color: white;
+width: 500px;
+height:320px;
+margin-left: 600px;
+text-align: left;
+box-shadow: 10px 10px 5px lightblue;
+}
+.GuestIInfo input{
+    width: 480px;
+}
+.paymentMethod{
+background-attachment: fixed;
+background-color: white;
+width: 500px;
+height:300px;
+margin-left: 600px;
+display: flex;
+flex-direction: column;
+text-align: left;
+box-shadow: 10px 10px 5px lightblue;
+}
+.paymentMethod input{
+    margin-left: -470px;
+}
+.paymentMethod label{
+   margin-top: -19px;
+   margin-left: 25px;
+   
+}
+.paymentMethod h6{
+   margin-top: 1px;
+   margin-left: 10px;
+   font-size: 12px;
+  font-weight: normal;
+
+   
+}
+form h2{
+    margin-left: 10px;
+}
+form label{
+    margin-left: 2px;
+}
+form input{
+    margin-left: 2px;
+}
+.fullName{
+    width: 480px;
+}
+select{
+    margin-left: 10px;
+}
+.lastPasrt {
+    background-color: rgba(247, 247, 247, 0.2);
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+    width: 1700px;
+    text-align: center;
+    display: flex;
+}
+
+.lastPasrt .contact {
+    margin-top: 100px;
+    margin-left: 250px;
+}
+
+.lastPasrt .ForCustomer {
+    margin-top: 100px;
+    margin-left: 160px;
+}
+
