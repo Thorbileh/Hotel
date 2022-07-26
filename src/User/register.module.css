@@ -1,0 +1,123 @@
+.body {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #7a848bbe;
+  width: 91%;
+  height: 800px;
+
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding:0 300px;
+  margin-top: 5%;
+  margin-left: -70%;
+  background: #ffffffd5;
+box-shadow: 5px 10px  grey;
+
+}
+
+.n {
+  width: 50%;
+  margin-top: 80%;
+  margin-left: -50%;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 24px;
+  color: rgb(46, 80, 80);
+  background-color: transparent;
+}
+
+.name {
+  width: 500%;
+ margin-top: 5%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: transparent;
+  color: rgb(46, 80, 80);
+  outline: none;
+}
+.n .One{
+  width: 10px;
+}
+.pass {
+  width: 500%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: transparent;
+  resize: none;
+  outline: none;
+  color: rgb(46, 80, 80);
+
+}
+.n button {
+  border-radius: 30px;
+  border: none;
+  font-size: 18px;
+  display: inline-block;
+  background-color: rgb(46, 80, 80);
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+width: 100px;
+height: 50px;
+}
+
+.reg {
+  color: #4e4e4e;
+ margin-left: 30%;
+}
+
+a {
+
+  text-decoration: none;
+}
+
+.right h4 {
+  width: 500%;
+  margin-left: 25%;
+  margin-top: 10%;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 24px;
+
+  color: rgb(46, 80, 80);
+}
+a:hover {
+  color: rgb(128, 128, 128);
+}
+
+.right .button:hover {
+  background-color: #4e4e4e;
+}
+
+.lastPasrt {
+  background-color: rgba(6, 6, 66, 0.733);
+  margin-left: auto;
+  margin-right: auto;
+  width: 91%;
+  text-align: center;
+  display: flex;
+}
+
+.lastPasrt .contact {
+  margin-top: 100px;
+  margin-left: 250px;
+}
+
+.lastPasrt .ForCustomer {
+  margin-top: 100px;
+  margin-left: 160px;
+}

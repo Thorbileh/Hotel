@@ -1,0 +1,139 @@
+.body {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #7a848bbe;
+    width: 91%;
+    height: 800px;
+
+}
+
+.right {
+    margin: auto;
+    width: 45%;
+    margin-top: 5%;
+    background: #ffffffd5;
+    padding-bottom: 50px;
+box-shadow: 5px 10px  grey;
+}
+
+.n {
+    width: 50%;
+    margin-top: 15%;
+    margin-left: 25%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color: rgb(46, 80, 80);
+    background-color: transparent;
+}
+
+ .name {
+    width: 100%;
+   margin-top: 5%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: transparent;
+    color: rgb(46, 80, 80);
+    outline: none;
+}
+
+.pass {
+    width: 100%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+    color: rgb(46, 80, 80);
+
+}
+
+footer button {
+    width: 50%;
+    margin-left: 42%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgb(46, 80, 80);
+    border: none;
+    background-color: transparent;
+
+}
+
+
+.right .button {
+    border-radius: 30px;
+    border: none;
+    font-size: 18px;
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(46, 80, 80);
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #ffffff;
+margin-left: 40%
+
+}
+
+.reg {
+    color: #4e4e4e;
+   margin-left: 30%;
+}
+
+a {
+
+    text-decoration: none;
+}
+
+.right .h4 {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 24px;
+
+    color: rgb(46, 80, 80);
+}
+a:hover {
+    color: rgb(128, 128, 128);
+}
+
+.right .button:hover {
+    background-color: #4e4e4e;
+}
+
+.lastPasrt {
+    display: flex;
+    background-color: rgba(185, 207, 207, 0.644);
+    margin: auto;
+    width: 91%;
+    text-align: center;
+    padding-bottom: 10%;
+}
+
+.lastPasrt .contact {
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.lastPasrt .ForCustomer {
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.lastPasrt ul{
+list-style-type: none;
+}

@@ -1,0 +1,28 @@
+nav{
+    display: flex;
+    font-size: 20px;
+   background-color: rgba(6, 6, 66, 0.733);
+    padding: 10px;
+    width: 90%;
+    margin: auto;
+}
+
+a{
+    color: rgb(169, 172, 172);
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: bold;
+}
+a:hover{
+    color: lightblue;
+}
+.nav{
+    margin: auto;
+}
+.profile img{
+    width: 5%;
+    height: 5%;
+}
+.profile{
+    margin-left: 10%;
+}
